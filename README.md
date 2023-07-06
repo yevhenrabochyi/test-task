@@ -1,4 +1,4 @@
-Test tast on react framework
+Test task on react framework
 
 ## Scripts
 
